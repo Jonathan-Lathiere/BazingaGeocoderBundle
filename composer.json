@@ -63,11 +63,9 @@
   "scripts": {
     "test": "vendor/bin/simple-phpunit --testsuite main"
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "extra": {
     "branch-alias": {
-      "dev-master": "5.0-dev"
+      "dev-master": "5.x-dev"
     }
   }
 }
